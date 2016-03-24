@@ -1,0 +1,3 @@
+SISTEM INFORMASI PENGELOLAAN SURAT MASUK DAN KELUAR
+
+Dibangun dengan Bootstrap & CodeIgniter.
